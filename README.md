@@ -9,8 +9,10 @@
 1.Select and Compare 2–3 Competitor Apps/Websites
 
 2.Perform Heuristic Evaluation
- 3.Analyze and Document Findings
- 4.Propose and Apply Improvements
+
+3.Analyze and Document Findings
+
+4.Propose and Apply Improvements
 
 # Output:
 
@@ -18,7 +20,11 @@
 
 <img width="1890" height="1022" alt="image" src="https://github.com/user-attachments/assets/22b92c1a-a6e3-4687-8bda-666e4da8fd53" />
 
+
+
 <img width="1917" height="1005" alt="image" src="https://github.com/user-attachments/assets/3c7c97b4-e760-4da8-b5a1-2db1395d96b4" />
+
+
 
 
 
@@ -36,10 +42,16 @@ user attention more effectively, improving usability, navigation flow, and overa
 
 
 
+
+
 ## CREATED WEBSITE :
 
 
+
+
 ![f86c11f61602420d9014c9027ed932b3 1](https://github.com/user-attachments/assets/15041e4b-1508-48c3-bd73-2d9a9dee5fe2)
+
+
 
 
 
