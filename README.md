@@ -20,6 +20,8 @@
 
 <img width="1917" height="1005" alt="image" src="https://github.com/user-attachments/assets/3c7c97b4-e760-4da8-b5a1-2db1395d96b4" />
 
+
+
 In this project, a heuristic evaluation was conducted to compare the user experience (UX) of two leading quick-commerce platforms — Blinkit and Zepto. 
 Both applications provide similar core functionalities such as product search, instant delivery, and digital payment integration. 
 However, through analysis based on Nielsen’s usability heuristics, several gaps in homepage design were identified. 
@@ -32,9 +34,14 @@ The excessive use of images and promotional elements in both platforms tends to 
 In contrast, a homepage with a clean, minimal layout featuring one primary banner and two to three key product sections would guide 
 user attention more effectively, improving usability, navigation flow, and overall satisfaction.
 
+
+
 ## CREATED WEBSITE :
 
+
 ![f86c11f61602420d9014c9027ed932b3 1](https://github.com/user-attachments/assets/15041e4b-1508-48c3-bd73-2d9a9dee5fe2)
+
+
 
 To address these identified shortcomings, the redesigned homepage focuses on simplicity, clarity, and user-centered navigation. 
 The overall interface employs a balanced and spacious layout with just one main promotional banner and three neatly 
